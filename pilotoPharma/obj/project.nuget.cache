@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tUlzx16dBt1M6S/XKBo3WxvNnO7Bu6pT+DYy5Rqj1MeAeih1Bwk4MnCaSmjKpq0iwTpSlLxlU0St+K1g6QSnEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\csi20-iiglhez\\source\\repos\\pilotoPharma\\pilotoPharma\\pilotoPharma.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\csi20-iiglhez\\.nuget\\packages\\npgsql\\6.0.7\\npgsql.6.0.7.nupkg.sha512",
+    "C:\\Users\\csi20-iiglhez\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
